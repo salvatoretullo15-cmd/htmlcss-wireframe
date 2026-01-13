@@ -1,0 +1,25 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+hr{
+
+    border:1px solid black;
+    margin-top: 10px;
+
+}
+
+body {
+    max-width: 512px;
+    border-style:dotted
+}
+
+.card 
+{
+    margin: 25px;
+    padding: 35px;
+    box-sizing: border-box;
+    border: 2px solid
+}
